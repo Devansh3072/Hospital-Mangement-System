@@ -1,6 +1,6 @@
 # Hospital Management Website
 
-![Website Screenshot](iwp1.png)
+![Website Screenshot](iwp11.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
